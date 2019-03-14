@@ -1,4 +1,4 @@
-function [ NLI, eta_n] = ISRSGNmodel_github( P )
+function [ NLI, eta_n] = ISRSGNmodel( P )
 % Returns nonlinear interference power and coefficient for each WDM
 % channel. This function implements the ISRS GN model in closed-form
 % published in:
