@@ -3,7 +3,7 @@
 The signal-to-noise ratio (SNR) after coherent detection and digital dispersion compensation is given by
 SNR = <sup>P</sup>&frasl;<sub>(P<sub>ASE</sub>+P<sub>NLI</sub>)</sub>, where P is the launch power, P<sub>ASE</sub> is the linear noise power and P<sub>NLI</sub> is the nonlinear interference power. All quantities are channel (frequency) dependent. 
 
-The [ISRS GN model function](examples/np_NLINmodel.ipynb) returns the nonlinear interference (NLI) power P<sub>NLI</sub> = ηP<sup>3</sup> [W] and the NLI coefficient η [<sup>1</sup>&frasl;<sub>W<sup>2</sup></sub>] for every channel slot (N<sub>ch</sub> × 1). The function needs the following variables as input parameters:
+The ISRS GN model function returns the nonlinear interference (NLI) power P<sub>NLI</sub> = ηP<sup>3</sup> [W] and the NLI coefficient η [<sup>1</sup>&frasl;<sub>W<sup>2</sup></sub>] for every channel slot (N<sub>ch</sub> × 1). The function needs the following variables as input parameters:
 
 | Input Parameter                                          | Variable | Dimension | Format   |
 |----------------------------------------------------------|----------|-----------|----------|
