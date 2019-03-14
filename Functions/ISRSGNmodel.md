@@ -88,7 +88,7 @@ P.coherent = 1;                                                      % coherent 
 
 P.Pch      = 10.^(0/10)*0.001 * ones(channels, P.n);                 % launch power per channel
 
-[NLI_power, NLI_coeffcient] = ISRSGNmodel_github( P );               % ISRS GN model function call
+[NLI_power, NLI_coeffcient] = ISRSGNmodel( P );               % ISRS GN model function call
 ```
 
 >[1] D. Semrau, R. I. Killey, P. Bayvel, "[A Closed-Form Approximation of the Gaussian Noise Model in the Presence of Inter-Channel Stimulated Raman Scattering]((https://ieeexplore.ieee.org/document/8625492)), " J. Lighw. Technol., Early Access, DOI: 10.1109/JLT.2019.2895237, Jan. 2019. 
