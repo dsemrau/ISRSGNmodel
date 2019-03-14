@@ -46,20 +46,20 @@ or (ideally) both.
 
 ## Further Reading 
 
-1. D. Semrau, E. Sillekens, R. I. Killey and P. Bayvel, "[The ISRS GN Model, an Efficient Tool in Modeling Ultra-Wideband Transmission in Point-to-Point and Network Scenarios](https://ieeexplore.ieee.org/document/8535146)," in European Conference on Optical Communication (ECOC), Tu4G.6, DOI: 10.1109/ECOC.2018.8535146, Sep. 2018
+D. Semrau, E. Sillekens, R. I. Killey and P. Bayvel, "[The ISRS GN Model, an Efficient Tool in Modeling Ultra-Wideband Transmission in Point-to-Point and Network Scenarios](https://ieeexplore.ieee.org/document/8535146)," in European Conference on Optical Communication (ECOC), Tu4G.6, DOI: 10.1109/ECOC.2018.8535146, Sep. 2018
 
-2. D. Semrau, R. I. Killey, and P. Bayvel, “[The Gaussian Noise model in the presence of inter-channel stimulated Raman scattering](https://ieeexplore.ieee.org/document/8351897),” J. Lightw.
+D. Semrau, R. I. Killey, and P. Bayvel, “[The Gaussian Noise model in the presence of inter-channel stimulated Raman scattering](https://ieeexplore.ieee.org/document/8351897),” J. Lightw.
 Technol., vol. 36, no. 14, DOI: 10.1109/JLT.2018.2830973, Jul. 2018
 
-3. G. Saavedra, D. Semrau, M. Tan, M. A. Iqbal, D. J. Elson, L. Galdino,
+G. Saavedra, D. Semrau, M. Tan, M. A. Iqbal, D. J. Elson, L. Galdino,
 P. Harper, R. I. Killey, and P. Bayvel, “[Inter-channel stimulated Raman
 scattering and its impact in wideband transmission systems](https://ieeexplore.ieee.org/document/8386214),” in Optical
 Fiber Communication Conference (OFC), Th1C.3, pp.1-3, Mar. 2018
 
-4. D. Semrau, R. Killey, and P. Bayvel, “[Achievable rate degradation of
+D. Semrau, R. Killey, and P. Bayvel, “[Achievable rate degradation of
 ultra-wideband coherent fiber communication systems due to stimulated
 Raman scattering](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-25-12-13024),” Opt. Express, vol. 25, no. 12, DOI: 10.1364/OE.25.013024,
 Jun. 2017.
 
-5. P. Poggiolini, “[The GN model of non-linear propagation in uncompensated
+P. Poggiolini, “[The GN model of non-linear propagation in uncompensated
 coherent optical systems](https://ieeexplore.ieee.org/document/6296670),” J. Lightw. Technol., vol. 30, no. 24, DOI: 10.1109/JLT.2012.2217729, Dec. 2012.
