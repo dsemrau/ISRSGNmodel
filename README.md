@@ -27,9 +27,9 @@ To help readers apply the implementation, the example code below uses the ISRS G
 
 #### Example code to reproduce results in [1]
 
-[Example 1 code in Matlab](Examples/Python/Example1.ipynb)
+[Example 1 code in Matlab](Examples/Matlab/Example1.m)
 
-[Example 1 code in Python](Examples/Matlab/Example1.m)
+[Example 1 code in Python](Examples/Python/Example1.ipynb)
 
 ## License 
 The code is &copy; D. Semrau, E. Sillekens, 2019, and it is made available under the MIT license enclosed with the software. 
